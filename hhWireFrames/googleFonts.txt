@@ -1,0 +1,23 @@
+Here they are, the WebFonts:
+https://www.google.com/fonts
+
+I use in the HTML5 standalone
+
+Aclonica
+Acme
+Antonio Bold
+Boogaloo
+Caveat Brush
+Chango Regular
+Comfortaa Bold
+DejaVu Sans Condensed Bold (labels)
+Dorsa
+Droid Serif Bold
+Petit Formal Script
+Stint Ultra Condensed
+Titan One
+Yeseva One
+
+Put these fonts to a place, where LC can find it
+(usual font install on Mac/Win, on Linux/Raspi
+put then into the .fonts directory of your home).
